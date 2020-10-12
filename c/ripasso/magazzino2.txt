@@ -1,0 +1,3 @@
+legno 3f
+legno 3g
+ferro a1

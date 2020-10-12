@@ -1,0 +1,6 @@
+1000 corso 3 28
+1000 corso2 4 21
+2000 corso 3 19
+1000 corso3 8 23
+3000 corso 5 18
+2000 corso1 3 30

@@ -1,0 +1,4 @@
+1000 chardonnay disponibile
+200 rosso no
+500 bianco disponibile
+600 bianco no

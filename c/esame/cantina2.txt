@@ -1,0 +1,3 @@
+200 bianco vuoto
+600 bianco disponibile
+10 rosso disponibile

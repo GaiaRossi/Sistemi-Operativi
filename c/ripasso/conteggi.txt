@@ -1,0 +1,4 @@
+fwfvwnlkcantina1.txt bianco
+cantina1.txt rosso
+cantina1.txt bianco
+cantina1.txt rosso
